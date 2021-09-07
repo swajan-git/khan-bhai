@@ -1,0 +1,42 @@
+body {
+    background-color: #2d2e2d;
+    color: #fff;
+    /* font-family: "Josefin Sans", sans-serif !important; */
+    /* font-family: "Lato", sans-serif; */
+    font-family: "Quattrocento Sans", sans-serif;
+}
+.text-center {
+    text-align: center !important;
+}
+body h3 {
+    color: #fff !important;
+    font-family: "Quattrocento Sans", sans-serif !important;
+}
+.shane_tm_button a {
+    border: 2px solid #13b0b8;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgb(19 176 184 / 30%) !important;
+}
+.shane_tm_second_title span {
+    color: #fff !important;
+}
+.shane_tm_second_title span::before {
+    color: #fff !important;
+}
+/* .shane_tm_second_title span {
+    position: relative;
+    font-family: poppins;
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+} */
+
+#news h3 a {
+    color: #fff !important;
+}
+#news .shane_tm_read_more a {
+    color: #13b0b8;
+}
+.shane_tm_settings {
+    display: none;
+}
